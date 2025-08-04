@@ -1,0 +1,110 @@
+Unitarian , 1 , The Unitarian Center , 1187 Franklin Street , San Francisco , CA
+, 94109 , (415) 776-4580 , 1.6 , 37.7853 , -122.4230 ,
+
+Unitarian , 2 , Unitarian Universalist Church &#38; Center-First , 1187 Franklin
+Street , San Francisco , CA , 94109 , (415) 776-4580 , 1.6 , 37.7853 , -122.4230
+
+Unitarian , 3 , First Unitarian Church of Oakland , 685 14th Street , Oakland ,
+CA , 94612 , (510) 893-6129 , 10.1 , 37.8067 , -122.2773 
+
+Unitarian , 4 , Unitarian Church of Oakland First , 685 14th Street , Oakland ,
+CA , 94612 , (510) 893-7056 , 10.1 , 37.8067 , -122.2773 , 
+
+Unitarian , 5 , Unitarian-Universalists Berkeley Fellowship Of , 1924 Cedar
+Street , Berkeley , CA , 94709 , (510) 841-4824 , 12.7 , 37.8777 , -122.2729 
+
+Unitarian , 6 , First Unitarian Church of Oakland ,  , Oakland , CA , 94601 ,
+(510) 893-7056 , 13.7 , 37.7770 , -122.2189
+
+Unitarian , 7 , First Unitarian Church of Berkeley , 1 Lawson Road , Berkeley ,
+CA , 94707 , (510) 525-9631 , 14.1 , 37.9175 , -122.2829 
+
+Unitarian , 8 , Unitarian Universalists of San Mateo , 300 East Santa Inez
+Avenue , San Mateo , CA , 94401 , (650) 342-5946 , 14.5 , 37.5713 , -122.3301 , 
+
+Unitarian , 9 , Unitarian Universalist Congregation of Marin , 240 Channing Way
+, San Rafael , CA , 94903 , (415) 479-4131 , 19.1 , 38.0123 , -122.5370 
+
+Unitarian , 10 , Unitarians-Marin Fellowship Of , 240 Channing Way , San Rafael
+, CA , 94903 , (415) 479-4131 , 19.1 , 38.0123 , -122.5370 , 
+
+Unitarian , 11 , Unitarian Universalist Fellowship of Redwood City , 2124
+Brewster Avenue , Redwood City , CA , 94062 , (650) 365-6913 , 23.0 , 37.4791 , -122.2443 ,
+
+Unitarian , 12 , Mission Peak Unitarian Universalist Congregation In ,  ,
+Hayward , CA , 94541 , (510) 888-4945 , 23.5 , 37.6743 , -122.0881 , 
+
+Unitarian , 13 , Unitarian Universalist Congregation of Fremont ,  , Hayward ,
+CA , 94541 , (510) 888-4945 , 23.5 , 37.6743 , -122.0881 , 
+
+Unitarian , 14 , Unitarian Universalist-Starr King Church of Hayward , 22577
+Bayview Avenue , Hayward , CA , 94541 , (510) 581-2060 , 25.2 , 37.6876 , -122.0597
+
+Unitarian , 15 , MT Diablo Unitarian Universalist Church , 55 Eckley Lane ,
+Walnut Creek , CA , 94596 , (925) 934-3135 , 27.4 , 37.8992 , -122.0448
+
+Unitarian , 16 , Unitarian Universalist Church MT Diablo , 55 Eckley Lane ,
+Walnut Creek , CA , 94596 , (925) 934-3135 , 27.4 , 37.8992 , -122.0448
+
+Unitarian , 17 , Palo Alto Unitarian Universalist Church , 505 East Charleston
+Road , Palo Alto , CA , 94306 , (650) 494-0541 , 31.7 , 37.4189 , -122.1123
+
+Unitarian , 18 , Unitarian Universalist Church of Palo Alto , 505 East
+Charleston Road , Palo Alto , CA , 94306 , (650) 494-0541 , 31.7 , 37.4189, 122.1123
+
+Unitarian , 19 , Mission Peak Unitarian Universalist Congregation ,  , Fremont ,
+CA , 94536 , (510) 252-1477 , 32.0 , 37.5620 , -121.9990
+
+Unitarian , 20 , Unitarian-Universalist Fellowship of Sunnyvale - Ministers ,  ,
+Sunnyvale , CA , 94085 , (408) 739-0549 , 37.8 , 37.3898 , -122.0168
+
+Unitarian , 21 , Unitarian Universalist Church of Napa-Solano - Church , 3875
+Jefferson Street , Napa , CA , 94558 , (707) 226-9220 , 40.0 , 38.3319 , -122.3080
+
+Unitarian , 22 , First Unitarian Church of San Jose , 160 North 3rd Street , San 
+Jose , CA , 95112 , (408) 292-3858 , 46.7 , 37.3395 , -121.8901
+
+Unitarian , 23 , Third Street Community Center , 160 North 3rd Street , San Jose
+, CA , 95112 , (408) 292-3858 , 46.7 , 37.3395 , -121.8901
+
+Unitarian , 24 , Unitarian Fellowship of Los Gatos ,  , Los Gatos , CA , 95030 ,
+(408) 358-1212 , 47.4 , 37.2300 , -121.9835
+
+Unitarian , 25 , Unitarian Universalist Church in Livermore , 1893 North Vasco
+Road , Livermore , CA , 94550 , (925) 447-8747 , 47.9 , 37.7194 , -121.7241
+
+Unitarian , 26 , Unitarian Fellowship , 15980 Blossom Hill Road , Los Gatos , CA
+, 95032 , (408) 358-1212 , 48.3 , 37.2345 , -121.9575
+
+Unitarian , 27 , Unitarian Universalist Fellowship of Sonoma County , Po Box
+1745 , Santa Rosa , CA , 95402 , (707) 584-0511 , 50.9 , 38.4399 , -122.7096
+
+Unitarian , 28 , Unitarian Universalist Fellowship of Santa Cruz County , 6401
+Freedom Boulevard , Aptos , CA , 95003 , (831) 684-0506 , 66.0 , 36.9843, -121.8632
+
+Unitarian , 29 , Pastoral Counseling Center , 27074 Patwin Road , Davis , CA ,
+95616 , (530) 753-7457 , 68.9 , 38.5456 , -121.7978
+
+Unitarian , 30 , Unitarian Church of Davis , 27074 Patwin Road , Davis , CA ,
+95616 , (530) 753-2581 , 68.9 , 38.5456 , -121.7978
+
+Unitarian , 31 , Unitarian Pastoral Counseling Center , 27074 Patwin Road ,
+Davis , CA , 95616 , (530) 753-7457 , 68.9 , 38.5456 , -121.7978
+
+Unitarian , 32 , First Unitarian Universalist Church , 2737 Pacific Avenue ,
+Stockton , CA , 95204 , (209) 466-7743 , 77.9 , 37.9842 , -121.3098
+
+Unitarian , 33 , Unitarian Universalist Community Church , 7560 Florin Road ,
+Sacramento , CA , 95828 , (916) 424-9154 , 85.6 , 38.4960 , -121.4161
+
+Unitarian , 34 , Unitarian Universalist Church of the Monterey Penins , 490
+Aguajito Road , Carmel , CA , 93923 , (831) 624-7404 , 89.2 , 36.5734 , -121.9114
+
+Unitarian , 35 , Unitarian Universalist Society of Sacramento Activities Info ,
+2425 Sierra Boulevard , Sacramento , CA , 95825 , (916) 483-0433 , 89.5 , 38.5780 , -121.4085
+
+Unitarian , 36 , Unitarian Universalist Society of Sacramento , 2425 Sierra
+Boulevard , Sacramento , CA , 95825 , (916) 483-9283 , 89.5 , 38.5780 , -121.4085
+
+Unitarian , 37 , Unitarian Universalist Fellowship of Stanislaus County , 2172
+Kiernan Avenue , Modesto , CA , 95356 , (209) 545-1837 , 95.3 , 37.7127 , -121.0376

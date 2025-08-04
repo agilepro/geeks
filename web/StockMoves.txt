@@ -1,0 +1,16 @@
+Take a reading of the Best Earnings at 10 ET (7 PT)
+put into Stocks.xls spreadsheat,
+get readings at 10:15 ET (7:15 PT)
+get readings at 11:15 ET (8:15 PT)
+get readings after 4:30 ET (1:30 PT)
+======================================================
+
+ 9dif% == %P/L for buy at  9:40, sell at 11:00 (currently hypothetical)
+10dif% == %P/L for buy at 10:00, sell at 11:00 (10 price currently det. at 10:15)
+ 9vol% == % shares sold by 9:40
+ 9max  == max between  9:40 and 11:00
+11max  == max between 11:00 and close
+
+Check at 10 ET for # stocks > 20k.  Go if > 40.
+Look at 1st 4 stocks, pick PE > 13, not foreign, not 'old' data
+Buy at 10 ET, sell at 11 ET (unless it's going up)

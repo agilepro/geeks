@@ -1,0 +1,19 @@
+Hi Mark,
+
+Try to use this script:
+http://209.197.249.37/webmail.zip
+or
+or use this URL to connect directly from our site:
+http://209.197.249.37/webmail.php
+
+MT> I've been unable to log on to our site, so I can clean out the email.  It 
+MT> used to work.
+MT> http://mark:@www.godlessgeeks.com:2095/mark+godlessgeeks.com/neomail.pl
+
+
+-- 
+Best Regards,
+Alex, Support Department
+http://www.H2Hosting.com, http://www.59Hosting.com
+service@h2hosting.com
+

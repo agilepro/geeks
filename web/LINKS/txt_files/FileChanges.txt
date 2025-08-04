@@ -1,0 +1,5 @@
+File changes for events:
+ index.html
+ news.html
+ Management: Messages
+ Management: Calendar 

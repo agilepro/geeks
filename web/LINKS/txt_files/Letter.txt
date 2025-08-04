@@ -1,0 +1,10 @@
+Hi,
+
+Happy Darwin's Birthday.
+
+It's been a while, so I thought that it would be good to keep in touch.  I just started a little consulting project with a couple of guys (and a few investors) who are putting together a super DVR (like TiVo or Replay).  It looks like fun, but we may or may not be able to get it to market and grab the dough.  I definitely had to change some of their ideas about data structures and the best ways to improve seek times by data placement on the drive.  They had some grand ideas about magic that software could do -- typical hardware guys.  Now all we have to do is show proof of concept.
+
+What's new with you?
+
+Take care,
+Mark Thomas

@@ -1,0 +1,169 @@
+ftp server:  ftp.godlessgeeks.com
+web folder:  /httpdocs
+username:  markt
+password:  ath31st
+ascii
+
+ftp://ftp.godlessgeeks.com ????????
+
+--------------
+old
+------
+markt
+W808080
+
+===========================
+
+
+A new client account has been created in Plesk.
+Client's contact name: Mark Thomas
+Client's login: godlessgeek
+Client's password: <encrypted>
+Plesk entry point: https://sonicloud.sonicfuzz.com:8443
+
+A new domain has been created in Plesk.
+Domain name: godlessgeeks.com
+Domain owner: Mark Thomas
+Domain IP: 74.208.218.5
+
+=============
+
+Here are the details for uploading:
+
+The server IP address is 74.208.218.5
+Username = "godlessgeek"
+Password= "@@44$quickly$LAST$bridge$47@@"
+
+Upload into the httpdocs folder.  You'll need to update your domain to point the the new IP addr
+
+
+=====================================================
+http://www.whois.com/whois/godlessgeeks.com
+
+godlessgeeks.com registry whois
+Updated 1 second ago - Refresh
+Domain Name: GODLESSGEEKS.COM
+Registrar: DNC HOLDINGS, INC.
+Whois Server: whois.directnic.com
+Referral URL: http://www.directnic.com
+Name Server: NS-10-1259377841-DELETED.DOTSTER.COM
+Name Server: NS2.GYMNOTEK.COM.NOLONGERUSEDDOMAIN.COM
+Status: clientDeleteProhibited
+Status: clientTransferProhibited
+Status: clientUpdateProhibited
+Updated Date: 07-may-2014
+Creation Date: 21-jun-2000
+Expiration Date: 21-jun-2015
+godlessgeeks.com registrar whois
+Updated 1 second ago
+
+Domain Name: GODLESSGEEKS.COM
+Registry Domain ID: 29666580_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.directnic.com
+Registrar URL: http://www.directnic.com
+Updated Date: 2014-05-07T06:08:31-05:00
+Creation Date: 2000-06-21T06:18:27-05:00
+Registrar Registration Expiration Date: 2015-06-21T06:18:27-05:00
+Registrar: DNC Holdings, Inc.
+Sponsoring Registrar IANA ID: 291
+Registrar Abuse Contact Email: email@directnic.com
+Registrar Abuse Contact Phone: +1.8668569598
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: renewPeriod (https://www.icann.org/epp#renewPeriod)
+Registrant Name: Ed Gauci
+Registrant Organization: none
+Registrant Street: 795 Race Ln  
+Registrant City: San Jose
+Registrant State/Province: CA
+Registrant Postal Code: 95159
+Registrant Country: US
+Registrant Phone: +4084820997
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: email@gauci.co
+Admin Name: Ed Gauci
+Admin Organization: none
+Admin Street: 795 Race Ln  
+Admin City: San Jose
+Admin State/Province: CA
+Admin Postal Code: 95159
+Admin Country: US
+Admin Phone: +4084820997
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: email@gauci.co
+Tech Name: Ed Gauci
+Tech Organization: none
+Tech Street: 795 Race Ln  
+Tech City: San Jose
+Tech State/Province: CA
+Tech Postal Code: 95159
+Tech Country: US
+Tech Phone: +4084820997
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: email@gauci.co
+URL of the ICANN WHOIS Data Problem Reporting System
+http://wdprs.internic.net
+For more information on Whois status codes, 
+please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+>>> Last update of WHOIS database: 2014-12-23T19:50:41-06:00 <<<
+
+
+The compilation, repackaging, dissemination, or other use of this WHOIS
+data is expressly prohibited without the prior written consent of
+DNC Holdings, Inc.
+
+DNC Holdings reserves the right to terminate your access to its WHOIS
+database in its sole discretion, including without limitation, for
+excessive querying of the database or for failure to otherwise abide by
+this policy.
+
+DNC Holdings reserves the right to modify these terms at any time.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.
+LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+related domain names
+
+directnic.com dotster.com gymnotek.com gauci.co internic.net
+Hot Deals!
+.website
+.WEBSITE @ $5.88 $21.8812345678910111213141516
+web hosting
+
+==================
+
+to		email@gauci.co
+subject	godlessgeeks.com
+
+Hi Ed,
+
+I hope that you're doing well.
+
+It's been a while since you set up godlessgeeks.com, and it appears that I need your help again in transferring it so that I can manage it.
+
+It looks like you have full control and ownership over the domain.  Could you make the change to the DNS pointer?  While updating the domain, could you add me as one of the contacts so I'm allowed to make changes myself?
+
+I think that this is the info you need:
+
+A new domain has been created in Plesk.
+Domain name: godlessgeeks.com
+Domain owner: Mark Thomas
+Domain IP: 74.208.218.5
+
+The server IP address is 74.208.218.5
+Username = "godlessgeek"
+Password= "@@44$quickly$LAST$bridge$47@@"
+
+I'm sure that you'll let me know if you need more info, or if there are any expenses.  Also, I'm not knowledgeable on this interwebs stuff, so please excuse any confusion.
+
+BTW, I've received many compliments on the name "godlessgeeks.com"
+
+Thank you,
+Mark
+

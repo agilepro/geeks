@@ -1,0 +1,319 @@
+SKEPTICS ON STEPHEN WOLFRAM AT CALTECH
+
+Last Saturday, February 1, 2003, Dr. Stephen Wolfram, author of the
+controversial book A New Kind of Science, spoke at Caltech to a packed
+audience of over a thousand people, who came to see and hear the subject of
+so much scientific press, as well as what three world-class scientists had to
+say about it.
+
+In an upcoming issue of Skeptic computer scientist David Naiditch will be
+publishing a full review essay of Wolfram's book, but for now I post his
+summary of the Caltech event, along with aerospace engineer Michael Gilmore's
+impressions of the day.
+-----------------------
+A New Kind of Science?
+
+David Naiditch
+
+On February 1, physicist and computer scientist, Dr. Stephen Wolfram, spoke
+to a full house at Caltech's Beckman Auditorium about his grandiose proposal 
+for a new and improved kind of science. After Wolfram spoke for about an 
+hour, he answered questions from a panel of distinguished scientists, and 
+then responded to questions from the audience.
+
+Stephen Wolfram was a child prodigy. He received his doctoral degree in
+theoretical physics from Caltech when he was only 20, and was the youngest
+scientist to receive a MacArthur award for his work in physics and computer
+science. Wolfram made a fortune developing Mathematica--a powerful software
+program that has become a standard for technical computing. Then, staring in
+the early 1980s, he began working on cellular automata.
+
+To understand cellular automata, imagine a grid of squares where each square
+can either be black or white. From an initial state of a few black squares, a
+simple rule is applied over and over again. This rule determines whether or
+not a square changes its color, and is based on the color of the square's
+nearest neighbors. For instance, a square might change from white to black
+only if its nearest left neighbor is black and its right neighbor is white.
+From such simple rules, intricate patterns can be generated, some of which
+are highly symmetric like snowflakes, others that appear random, and others
+that are self-similar fractals. Wolfram discovered that even the simplest
+programs yield patterns of astonishing complexity.
+
+In May 2002, Wolfram published his book, A New Kind of Science, which for the
+first time revealed to the world the results of his research on cellar
+automata and related fields. Wolfram's book was an immediate success and
+caused a great deal of controversy. According to his publicist, the initial
+print run of 50,000 copies sold out the first day, with over 200,000 copies
+sold at the time of this writing. The book has been reviewed in most major
+media venues (New York Times Book Review, New York Review of Books, Science,
+Nature, etc.) and Wolfram has been featured in such national publications as
+Time and Newsweek.
+
+Wolfram proposed a new way of doing science. For hundreds of years,
+scientists have successfully used mathematical equations that show how
+various entities are connected. For instance, Newton's equation, F=ma,
+shows us how force (F) is related to mass (m) and acceleration (a). The
+problem with this approach is that equations fail to describe complex
+phenomena we see all around us, such as the turbulence of boiling water or
+the changing weather. To describe such complex phenomena, Wolfram proposes
+that scientists employ the types of rules used in cellular automata and
+related areas of computing.
+
+In Wolfram's theory the universe is a giant computer. This computer produces
+complexity through the repeated execution of simple rules. Instead of using
+equations to describe the results of nature's computer programs, Wolfram
+tells us to examine the programs themselves.
+
+At the Caltech event Wolfram's ideas were challenged by a stellar panel of
+scientists: Steven Koonin, Chris Adami, John Preskill, and David Stevenson.
+Steven Koonin, the moderator, is a full professor of physics at Caltech and
+received the Caltech Associated Students Teaching Award, the Humboldt Senior
+Scientist Award, and the E.O. Lawrence Award in Physics from the Department
+of Energy. Chris Adami is faculty associate and director of the Digital Life
+Laboratory at Caltech, principle scientist in the Quantum Technologies Group
+at the Jet Propulsion Laboratory, and author of the textbook Introduction to
+Artificial Life. John Preskill is the John D. MacArthur Professor of
+Theoretical Physics at Caltech and the director of the Institute for Quantum
+Information. David Stevenson has been a physics professor at Caltech since
+1980 and is the recipient of a Fellowship of the Royal Society of London and
+the Feynman teaching prize.
+
+Although it is clear that Wolfram is no crank, not someone skeptics would
+label a pseudoscientist, skeptics will notice that, despite his flawless
+credentials, staggering intelligence, and depth of knowledge, Wolfram
+possesses many attributes of a pseudoscientist: (1) he makes grandiose
+claims, (2) works in isolation, (3) did not go through the normal peer-review
+process, (4) published his own book, (5) does not adequately acknowledge his
+predecessors, and (6) rejects a well-established theory of at least one
+famous scientist.
+
+First, throughout his lecture Wolfram made the grandiose claim that his work
+amounts to a "paradigm shift" of how we do science. Furthermore, Wolfram
+claims his work will shed light on a broad range of fundamental issues that
+have stymied scientists for ages, including the randomness found in nature,
+biological complexity, the nature of space-time, the possibility of a "theory
+of everything," and the scope and limitations of mathematics. Wolfram even
+claims his insights can be used to tackle the ancient paradoxes of free will
+and determinism, and the nature of intelligence.
+
+Second, like so many pseudoscientists on the fringe, Wolfram did his work in
+isolation for 20 years. Although he was running a company that required he
+interact with employees and customers (many of whom are scientists), his work
+on cellular automata was kept largely to himself.
+
+Third, Wolfram admitted that he had enough material during this time for
+hundreds of scientific papers, yet he did not bother to publish any of the
+material or present his ideas at any scientific conferences. Thus, any
+critical feedback that might have improved his theory before it was cemented
+in inky stone was eschewed, making change at this point in the development of
+his theory much more unlikely.
+
+Fourth, in May 2002 Wolfram revealed his work for the first time in his
+massive self-published tome, A New Kind of Science, coming in at 1,268 pages.
+This is not because he could not get a publisher, or that no publisher would
+print such a large book. Readers may recall Stephen Jay Gould's magnum opus,
+The Structure of Evolutionary Theory, was released about the same time by
+Harvard University Press, topping out at 1,433 pages. Between the two,
+bookstores shelves were sagging under the weight of Big Science. Wolfram
+self-published because he wanted to maintain tight control over the
+production and distribution of his life's work.
+
+Fifth, not only did Wolfram work alone, during his Caltech lecture not once
+did he acknowledge the work of other scientists. In addition, throughout the
+850 pages of general text, and 350 pages of notes, there are no traditional
+references to be found in A New Kind of Science: no references to scientific
+papers, no citations of books related to the topic, and no bibliography. In
+fact, the notes section consists mostly of further commentary on his own work
+earlier in the book, with occasional reference to other scientists and
+scholars without actually providing citations to their work. In actual fact,
+many of Wolfram's ideas are not new. They can be found, for instance, in
+James Gleick's popular book, Chaos: Making a New Science, and in Robert
+Wright's book, Three Scientists and Their Gods, which describes the work of
+Edward Fredkin. Fredkin, like Wolfram, believes that the universe is a
+digital computer. What is new in A New Kind of Science is Wolfram's claim
+that cellular automata, instead of being peripheral to science, should be
+central to the way science is practiced.
+
+Sixth, Wolfram raised the hackles of the scientific panel as well as the
+audience when he rejected a well-established theory of a famous scientist:
+none other than Charles Darwin and his theory of natural selection. Although
+Wolfram does not claim natural selection is totally without merit, he does
+claim it is insufficient to fully explain the complexity found in the 
+biological world. For instance, he claims that natural selection can explain 
+phenomena such the lengthening of bones, but not fundamental changes to an 
+animal's morphology. Wolfram also claims that, contrary to popular belief, 
+evolution is not very important to biologists.
+
+Panel member Chris Adami, who researches how complexity arises from natural
+selection, took exception to these claims. Adami pointed out that Darwinian
+evolution in general, and natural selection in particular, is of fundamental
+importance to biologists; without it, biology does not make sense. Adami also
+argued that the kind of complexity biologists are most concerned with is
+different from the kind of complexity presented by Wolfram. Wolfram tries to
+explain complex patterns such as those found on seashells. According to
+Adami, such complexity is based on our perception and our inability to
+perceive the simple rules that can generate such patterns. In contrast,
+biologists are concerned with functional complexity that arises as organisms
+adapt to various environments, thereby increasing their chance of survival
+and reproduction. Adami finds it inconceivable that the functional complexity
+of, say, a living cell, is due to a simple underlying rule. John Preskill
+also challenged Wolfram on this point, noting that cellular automata are very
+fragile. Any "mutation" to cellular automata is disastrous. Biological 
+systems, on the other hand, must be stable even when mutations and other 
+errors are introduced.
+
+In addition to these criticisms, other objections were raised to Wolfram's
+ideas. Steven Koonin pointed out that a paradigm shift cannot arise simply by
+asserting something is a paradigm shift. One must convince the scientific
+community that this description is warranted. To the contrary, according to
+David Stevenson, Wolfram fails to satisfy rules of what constitutes good
+science. Creating programs that generate images that look like things found
+in nature is not sufficient. One needs specific predictions. Wolfram does not
+offer any laboratory experiments or observations that could verify or falsify
+his grand claims.
+
+Wolfram responded that the requirement of falsifiability does not apply to
+mathematics or computer science. He argued that his claims have the character
+of mathematics rather than physics, employing calculus as an analogy. Newton=
+showed how calculus provides a new way of doing science. Calculus itself,
+however, is not tested to determine whether it is true or false. Its
+justification is that it works. The panel rebutted that if this analogy is
+true, then Wolfram is just proposing a new kind of computational method, not
+a new kind of science.
+
+Objections were also raised that Wolfram's theory lacks explanatory power.
+Not everything that is useful is explanatory. For example, David Stevenson
+explained that Feynman diagrams are very useful and can provide answers to
+problems of quantum mechanics much faster than answers obtained by
+computational methods. However, Feynman diagrams do not provide an
+explanation or deeper understanding of quantum phenomena. Again,
+it was emphasized that Wolfram seems to be offering a new kind of
+computational tool, not a new kind of science.
+
+According to Wolfram, by generating patterns on the computer screen that
+resemble, for instance, snowflakes, he has explained how snowflakes acquire
+their complex symmetric structures. Panelists countered that such inferences
+are unwarranted. The resemblance does not, by itself, mean nature uses rules
+to generate snowflake patterns. Wolfram needs to demonstrate how nature
+physically instantiates the rules of cellular automata. Evidence is needed to
+show that the shape of snowflakes was produced by a physical mechanism whose
+behavior resembles the rules used by a computer.
+
+John Preskill observed that few of the ideas presented in Wolfram's book are
+concrete enough to be usable by research scientists. Wolfram's answer that no
+experts in his field yet exist, does not address the problem. For example,
+Wolfram's most original ideas--such as the attempt to incorporate quantum
+theory and gravity using random network models and path independence--are too
+speculative to be of use to scientists.
+
+At the end of the Caltech program the moderator, Steven Koonin, asked the
+panelists to predict whether in 20 years Wolfram's A New Kind of Science will
+be viewed as a paradigm shift. The unanimous answer was "no." One panelist
+said, "it is not an approach that has much promise," while another noted
+that Wolfram's ideas are the "Emperors New Clothes." Wolfram tried to get in
+the last word by stating that this reaction from the panelists is just what
+one would expect from a paradigm shift. But Steven Koonin rejoined that this
+is also just what one would expect if Wolfram's ideas did not amount to a
+paradigm shift. Ultimately, time will tell who is right.
+---------------------
+Of Triangles and Bulldogs
+Is Stephen Wolfram a Modern Pythagoras?
+By Michael Gilmore 
+
+"I would rather understand one cause than be King of Persia."
+--Democritus of Abdera
+
+It was a warm day in Pasadena and a full house at Caltech's Beckman 
+auditorium Saturday, February 1.
+
+In a swift and densely packed hour, Stephen Wolfram presented ideas from his
+1268 page best seller, A New Kind of Science, that deals with the
+mathematical world of cellular automata It was a fine lecture, but was it
+science? Is this the beginning of a new paradigm shift, as Wolfram so
+repeatedly and confidently claimed?
+
+I first wondered if this Saturday could be like that hot Oxford day when
+Huxley, as Darwin's bulldog, debated Bishop Wilberforce about the new Theory
+of Natural Selection? Perhaps Wolfram was his own bulldog: exceptionally
+bright, eloquent, and confident, with a British accent to boot. But this was
+a lonely bulldog, and he had no defenders. It was four to one in this debate,
+with no soapy bishops among the Caltech panel of stellar scientists who
+questioned Wolfram. Of course, science isn't done by consensus, but then 
+Wolfram was no Darwin. At least not yet. He had made no new predictions about 
+nature that the scientists sitting quietly in the auditorium could then go 
+forth and check by microscope, cyclotron, or telescope.
+
+As Wolfram talked, I remembered a hot summer day on the island of Samos. On
+an Ionian trek, with my son Tyson, we had sailed to Samos to find the muses
+of science. Pythagoras was the name most in evidence on the island. His
+theorem regarded right triangles, you know. But, it was the legends of
+Thales, Aristarchus, and Anaximander that was more to our taste. These guys
+were the ancient equivalent to modern scientists. They pursued observation
+and experiment. They got their hands dirty and used their brains.
+
+But Pythagoras wasn't one of them. He professed that nature could be
+understood by pure thought alone. Wolfram seemed to be pitching something
+rather close to that idea. He also had an apparent obsession with triangles,
+manifest throughout his magnum opus.
+
+I think the ancient rift between the Ionian experimentalists and the
+Pythagorian mystics gives some insight to the Wolfram question.
+
+One modern manifestation of this ancient rift, is the traditional separation
+between experimentalist and theoretician. One extreme is the stereotypical
+well manicured, well dressed, elegant, and usually arrogant, theoretician,
+who never has grease under the nail or eye to the microscope, yet knows all
+the answers by thought alone.
+
+Of course there is also the scientist who has gathered reams of observations
+in the outback, but has never had a philosophical thought in his or her life.
+Good science is, of course, neither of these stereotypes. Those who make
+useful observations and experiments are usually driven by some variation of
+what Michael Shermer calls "Darwin's dictum" where, as the sage of Down
+said, "all observation must be fore or against some view if it is to be of
+any service." Good theoreticians are informed by the latest observations and
+experimental results. It is no accident that Galileo, Newton, Halley, 
+Faraday, and Darwin were good with their hands and great experimentalists.
+
+Yes, we all know of the exceptions. A famous example being the delightfully
+arrogant theoretical physicist Wolfgang Pauli who allegedly could destroy
+whole laboratories at a distance, just by his presence in their vicinity!
+
+But, the most famous theoretical scientist of the 20th century, Einstein,
+remarked how much he enjoyed the laboratory experience and was bored with the
+lecture hall. Feynman's self constructed youthful laboratory was his joy, and
+Enrico Fermi's world class reputation was grounded in both his theoretical
+and laboratory talent.
+
+We should keep these examples in mind when we sit at our computer screens day
+after day. We must remember to pick ourselves up, roll up our sleeves, tinker
+in the lab, explore the world, and observe nature.
+
+The theorem of the sums of the squares of the sides of a right triangle may
+not have been original with Pythagoras. But the method of mathematical
+deduction for a general proof was his. Today's mathematical argument, and
+scientific practice owes much to Pythagoras. However, there is no short cut
+to the secrets of nature by mind alone, as the Pythagorians believed. At
+least not yet.
+
+Scientists today depend on Stephen Wolfram's Mathematica, which has become a
+legendary standard program for technical computing throughout the world. This
+software allowed Wolfram to explore deeply the mathematical world of cellular
+automata. Cellular automata has elements of a sort of perfect and mystical
+world. A world the Pythagorians really thought existed. It is a beautiful
+mathematical creation, but it is not nature.
+
+There is a deja vu about Stephen Wolfram, perhaps others have noticed it.
+Like Wolfram, the American mathematician, Johnny von Neumann was a great
+pioneer in computer science as well as cellular automata. Like Wolfram he was
+incredibly bright, a child prodigy. (I checked some photos, they even look
+alike.). Von Neumann's good friend, the British mathematician and polymath,
+Jacob Bronowski, kindly found fault with him and stated Johnny von Neumann
+was in love with the aristocracy of the intellect." This was a sin Bronowski
+believed could destroy civilization. Like Galileo and Darwin, Wolfram has 
+written a popular book. In doing so he isn't practicing the sin Bronowski had 
+in mind regarding von Neumann. But, I can't help thinking of the "aristocracy 
+of the intellect" when I consider the Pythagoreans and their mystical short 
+cut to know the world. The aristocracy of the intellect, the arrogance about not getting your hands
+dirty, and about having some sort of absolute knowledge with no test in the
+world, are all closely related. And they are a barrier to doing good science.

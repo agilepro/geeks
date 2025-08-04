@@ -1,0 +1,15 @@
+First, thank you for an excellent web article on Galileo.  We need more rational thinking, such as Galileo's, to help counter the superstitions continually put forth as correct thought, to help people understand the simple laws of physics around us, and to push the frontiers of science even further.  I am looking forward to watching the TV portion.
+
+There are small but irritating typos in the article on Galileo, in the section on inclined planes.  It reads, " ... but you can change it's inclination ... "   The word "it's" is only used as an abbreviation for "it is."  It also claims that there are two statements to choose from, when there are four.  It reads, " ... which of the following two statements are true?"  Perhaps what is meant is, " ... which two of the following statements are true?"
+
+Later on in the section where you look at determining the rate of acceleration, there are three options:
+  distance is equal to the square root of the time
+  distance is equal to the square of the time
+  time is equal to the square of the distance
+
+Technically, instead of the word "equal" in these options, you should use "proportional".
+
+
+Sincerely,
+Mark W. Thomas
+Mountain View,  CA

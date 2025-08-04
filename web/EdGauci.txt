@@ -1,0 +1,61 @@
+Hi Ed,
+
+Thanks again for looking into this.  The problem seems simple; either we name directors in the articles of incorporation, or we have the person filing sign the document.  I agree that the articles should name the initial directors (e.g. the current board), then we just have each of us sign it.  This is the most egalitarian.  It seems to be just a title change from "officers" to "directors".  I expect that all 5 of the board will be at the next meeting on the 26th.
+
+My only remaining concern is this line at the end of the ARTICLES OF INCORPORATION: "As stated in the Bylaws of this corporation."
+
+What the heck are our bylaws?
+
+godlessly,
+Mark
+
+===
+
+>From: "Ed Gauci" <gauci@good-things.org>
+>To: <m_w_thomas@hotmail.com>
+>Subject: Articles of Incorporation
+>Date: Sat, 15 Mar 2003 13:36:53 -0800
+>
+>Hi Mark,
+>
+>Chris fixed two of the three problems with the Articles of
+>Incorporation. The final one is:
+>
+>The articles have not been properly acknowledged by each named director
+>as required by California Corporations Code Section 9120(b).
+>
+>Chris' hand-written note is "I didn't understand #3." Can't say I blame
+>her.
+>
+>Here is the text of this code:
+>
+>*********************
+>9120.  (a) One or more persons may form a corporation under this
+>part by executing and filing articles of incorporation.
+>    (b)  If initial directors are named in the articles, each director
+>named in the articles shall sign and acknowledge the articles; if
+>initial directors are not named in the articles, the articles shall
+>be signed by one or more persons who thereupon are the incorporators
+>of the corporation.
+>    (c) The corporate existence begins upon the filing of the articles
+>and continues perpetually, unless otherwise expressly provided by
+>law or in the articles.
+>
+>********************
+>
+>Attached to this email is the current articles, with the other two
+>Problems fixed. This is Chris' last change; I just picked this up from
+>AthofSv's file area.
+>
+>Since the articles do not name directors, it isn't entirely clear
+>who should "sign and acknowledge", but perhaps the current members
+>of the board? Since one of the other problems was that we shouldn't
+>Name corporate officers, I'm thinking all we need is a section that goes
+>something like this:
+>
+>The undersigned acknowledge these Articles of Incorporation:
+>
+>Name        Address                     Date     Signature
+>
+>
+><< Articles501c3.doc >>

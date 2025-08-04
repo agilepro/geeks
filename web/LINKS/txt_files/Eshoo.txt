@@ -1,0 +1,47 @@
+Mon, 7 Apr 2003 15:10:45
+
+Your subscription  to the NEWSLETTER-CA14 list  (Rep. Eshoo's Newsletter)
+has been accepted.
+
+Please save this message for future  reference, especially if this is the
+first time you are subscribing to an electronic mailing list. If you ever
+need to leave  the list, you will find the  necessary instructions below.
+Perhaps  more importantly,  saving a  copy of  this message  (and of  all
+future subscription notices  from other mailing lists) in  a special mail
+folder will give you instant access to the list of mailing lists that you
+are subscribed  to. This may  prove very useful the  next time you  go on
+vacation and  need to leave  the lists temporarily so  as not to  fill up
+your  mailbox while  you  are away!  You should  also  save the  "welcome
+messages" from the  list owners that you will  occasionally receive after
+subscribing to a new list.
+
+You may leave the list at any time by sending a "SIGNOFF NEWSLETTER-CA14"
+command to  LISTSERV@LS1.HOUSE.GOV. You  can also  tell LISTSERV  how you
+want it to confirm  the receipt of messages you send to  the list. If you
+do not trust  the system, send a "SET NEWSLETTER-CA14  REPRO" command and
+LISTSERV will send you  a copy of your own messages, so  that you can see
+that the  message was  distributed and  did not get  damaged on  the way.
+After a while  you may find that this is  getting annoying, especially if
+your mail program does not tell you  that the message is from you when it
+informs you that new mail has arrived from NEWSLETTER-CA14. If you send a
+"SET NEWSLETTER-CA14 ACK NOREPRO" command, LISTSERV will mail you a short
+acknowledgement  instead,  which  will  look different  in  your  mailbox
+directory. With most mail programs you will know immediately that this is
+an  acknowledgement  you  can  read  later. Finally,  you  can  turn  off
+acknowledgements completely with "SET NEWSLETTER-CA14 NOACK NOREPRO".
+
+Following  instructions from  the list  owner, your  subscription options
+have been set to "MIME" rather than the usual LISTSERV defaults. For more
+information about  subscription options,  send a  "QUERY NEWSLETTER-CA14"
+command to LISTSERV@LS1.HOUSE.GOV.
+
+Please note that  it is presently possible for other  people to determine
+that  you are  signed up  to the  list through  the use  of the  "REVIEW"
+command,  which  returns   the  e-mail  address  and  name   of  all  the
+subscribers. If  you do not  want your name to  be visible, just  issue a
+"SET NEWSLETTER-CA14 CONCEAL" command.
+
+More  information on  LISTSERV  commands  can be  found  in the  LISTSERV
+reference  card, which  you can  retrieve  by sending  an "INFO  REFCARD"
+command to LISTSERV@LS1.HOUSE.GOV.
+

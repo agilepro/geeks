@@ -1,0 +1,14 @@
+Q's for Bob
+=============
+How can I change email and add addresses of customers getting the Stocks of Interest report?
+How can I change my email address for notice from pop-up customers?
+How can I change the importance of the reports from "Low Importance"?
+
+
+Q's for Gregory
+================
+stocksofinterest.asp can gen a large # of stocks (12/01/03 was 134)
+Interest.asp does a max of 100.
+
+"http://www.pcinvestor.com/Interest.asp?User=VERIFIED" allows anyone to run an interest report.  We need a way to limit access only to paying customers.
+

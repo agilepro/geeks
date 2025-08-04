@@ -1,0 +1,16 @@
+<font color=0><b>Join<br>Atheists of Silicon Valley<br>for $20/year.</b>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick-subscriptions">
+<input type="hidden" name="business" value="AthofSV@hotmail.com">
+<input type="hidden" name="item_name" value="ASV Membership Subscription">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/x-click-but20.gif" border="0"
+name="submit" alt="Pay with PayPal - it's fast, free and secure!">
+<input type="hidden" name="a3" value="20.00">
+<input type="hidden" name="p3" value="1">
+<input type="hidden" name="t3" value="Y">
+<input type="hidden" name="src" value="1">
+<input type="hidden" name="sra" value="1">
+</form>

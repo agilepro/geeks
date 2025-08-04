@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>XXXXXXXX</title> 
+</head>
+<body>
+...
+</body>
+</html>
+
+
+headline text:  	<h1>, <h2>
+paragraph		<p>
+break (newline)		<br>
+horizontal rule		<hr>
+Bold			<b> ... </b>
+Italic			<i> ... </i>
+Typewriter		<tt> .. </tt>
+Unordered List		<ul> .. </ul>
+Ordered List		<ol> .. </ol>
+List Item		<li> .. </li>
+preformat		<pre> ... </pre>
+definition list		<dl> ... </dl>
+definition title	<dt> 
+definition definition	<dd>
+blockquote		<blockquote>...</blockquote>
+table			<table> ... </table>
+			<table border=1>
+			<TABLE width=100%>
+			<td align=center valign=middle>
+table row		<tr>
+table data		<td>
+			<td align=center colspan=2>
+			<td valign=top rowspan=2>
+			<td align=center valign=middle>
+			<td bgcolor=#222222 rowspan=4>
+			<td background="image.gif">
+			<tr background="image.gif"> Will not work in Internet Explorer
+			<table background="image.gif">
+table header		<th> hdr text </th>
+			<th background="pattern.gif"><font color=#EE8844>Eruption</font></th> 
+
+
+image 			<img alt="Lava Display" src="lava.gif" width=X height=Y>
+anchor name 		<a name="check">Text to Link To</a>
+anchor loc reference	<a href="#check">Check Your Work loc</a>
+anchor file reference	<a href="file.html">Check Your Work file</a>
+anchor file, loc ref	<a href="file.html#check">Check Your Work file and loc</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright			&copy		©
+Trademark			&reg		®
+Cent				&cent		¢
+Degree sign			&deg		°
+double-less than		&laquo		«
+micron				&micro		µ
+Midline dot			&middot		·		
+Negation, continuation line	&not		¬
+Paragraph			&para		¶
+Plus/Minus			&plusmn		±
+British Pound			&pound		£
+double greater than		&raquo		»
+Section				&sect		§
+Yen				&yen		¥ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+<div align=center>
+<a href=http://www.digits.com/>Mr. Web Counter</a> says that you're visitor #
+<IMG SRC="http://counter.digits.com/wc/-d/4/AtheistsOfSiliconValley" align=middle width=60 height=20 border=0
+hspace=4 vspace=2 alt="000"></div>

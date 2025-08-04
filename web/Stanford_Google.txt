@@ -1,0 +1,12 @@
+ <p>Location:<br>
+<a href=http://maps.google.com/maps?f=d&q=485%20Lasuen%20Mall,%20Stanford,%20CA%2094305>485 Lasuen Mall<br>Stanford</a>
+
+
+<p><b>Location:</b><br>
+<a href=http://campus-map.stanford.edu/?id=&lat=37.428663515600014&lng=-122.171327744&zoom=18>Building 380, room 380-D (in the basement)</a><br>Math Corner<br>Stanford
+
+<p>Location:<br>
+<a href=http://campus-map.stanford.edu/index.cfm?ID=01-370>Building 370</a>
+
+Jordan Hall = 450 SERRA MALL
+<a href=http://maps.google.com/maps?f=d&q=450%20Serra%20Mall,%20Stanford,%20CA%2094305>

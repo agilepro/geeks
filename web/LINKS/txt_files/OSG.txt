@@ -1,0 +1,5 @@
+OSG_FILE_PATH
+;C:\Program Files\OpenSceneGraph\Data;C:\Program Files\OpenSceneGraph\Data\Images;C:\Program Files\OpenSceneGraph\Data\Fonts;C:\OSG\Data;C:\OSG\Data\Images;C:\OSG\Data\Fonts;C:\OSG\Data;C:\OSG\Data\Images;C:\OSG\Data\Fonts
+
+Path
+;C:\Program Files\OpenSceneGraph\bin;C:\Program Files\OpenSceneGraph\bin;C:\Program Files\OpenSceneGraph\bin;C:\OSG\Develop\bin;C:\OSG\bin;C:\Temp\OpenSceneGraph\bin;C:\OSG\bin;C:\OSG\bin;C:\OSG\bin;C:\OSG\bin;C:\OSG\bin
