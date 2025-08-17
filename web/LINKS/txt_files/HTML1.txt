@@ -67,20 +67,20 @@ anchor file, loc ref	<a href="file.html#check">Check Your Work file and loc</a>
 
 
 
-Copyright			&copy		©
-Trademark			&reg		®
-Cent				&cent		¢
-Degree sign			&deg		°
-double-less than		&laquo		«
-micron				&micro		µ
-Midline dot			&middot		·		
-Negation, continuation line	&not		¬
-Paragraph			&para		¶
-Plus/Minus			&plusmn		±
-British Pound			&pound		£
-double greater than		&raquo		»
-Section				&sect		§
-Yen				&yen		¥ 
+Copyright			&copy		Â©
+Trademark			&reg		Â®
+Cent				&cent		Â¢
+Degree sign			&deg		Â°
+double-less than		&laquo		Â«
+micron				&micro		Âµ
+Midline dot			&middot		Â·		
+Negation, continuation line	&not		Â¬
+Paragraph			&para		Â¶
+Plus/Minus			&plusmn		Â±
+British Pound			&pound		Â£
+double greater than		&raquo		Â»
+Section				&sect		Â§
+Yen				&yen		Â¥ 
 
 
 

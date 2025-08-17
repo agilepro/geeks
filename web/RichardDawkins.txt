@@ -1,9 +1,9 @@
 
 Thirty years ago, British scientist Richard Dawkins set out to explain the newest and most thought-provoking
-theories of evolutionary biology to a wider audience. Written with clear and vivid prose, Dawkin’s groundbreaking
+theories of evolutionary biology to a wider audience. Written with clear and vivid prose, Dawkinâ€™s groundbreaking
 book <i>The Selfish Gene</i> reignited Darwinian theory and synthesized broad ideas on natural selection,
 influencing both his peers and the public. Throughout his prestigious writing career in books including
-<i>Unweaving the Rainbow, A Devil’s Chaplain</i>, and <i>The Ancestor’s Tale</i>, Dawkins has exposed many
+<i>Unweaving the Rainbow, A Devilâ€™s Chaplain</i>, and <i>The Ancestorâ€™s Tale</i>, Dawkins has exposed many
 common misperceptions of evolutionary theory. A rationalist and vocal Atheist, Dawkins asserts the irrational belief
 in God in his most recent book <i>The God Delusion.</i> Dawkins firmly roots <i>The God Delusion</i> in historical
 arguments for a divine being, from St. Augustine onwards, and negates influential theologians. His impassioned
@@ -28,4 +28,4 @@ Dawkins has fashioned an impassioned, rigorous rebuttal to religion,
 to be embraced by anyone who sputters at the inconsistencies and
 cruelties that riddle the Bible, bristles at the inanity of
 "intelligent design," or agonizes over fundamentalism in the Middle
-East—or Middle America.
+Eastâ€”or Middle America.
