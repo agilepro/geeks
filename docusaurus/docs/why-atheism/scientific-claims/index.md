@@ -1,0 +1,15 @@
+# “Scientific” Arguments for God(s)
+
+The biggest weakness in using a god to explain anything scientifically is that the explanation is not falsifiable, and thus not even testable.  There is no way to create an experiment to show that it’s wrong.  For every possible set of a test and a result, we could simply say, “A god did it.”  How did Earth and the universe begin, and why do they appear to be so old?  “A god did it.”  How did life start, and why does nature seem so balanced?  “A god did it.”  Once again, why does anything happen?  If we say that a god did it, there is no reason or opportunity to learn how the world really works.  If we had stayed with a god as the cause of all events, our modern culture would have been impossible.  We would have no real science, engineering, or medicine.  We would still be living in the Dark Ages.
+
+The “god did it” or “god of the gaps” argument has probably been around since humans first started creating gods.  It's the basic premise behind all the “scientific” arguments for the existence of a god.  Here's what the logic looks like when applied to two common weather phenomena:  Lightning and thunder are terrifying!  They must be caused by something else (that we don’t really understand either).  This something else must be a god because we can’t come up with a better explanation.
+
+The obvious main fault of  “god of the gaps” is its supposition that current lack of knowledge on a subject means that it can’t be known — that “unknown” means “unknowable.”  If this applies to an individual, it’s the argument from personal incredulity — because a person doesn't understand something then he thinks that the subject must be unknown, unknowable, or false.
+
+When faced with an unknown, let's first note that it's perfectly OK to say, “I don't know,” or, “We don't know,” — just as it would have been when people in the past asked, “What causes lightning or tornadoes?” or, “Why do things fall to the ground?” or countless other questions for which we now have straightforward scientific explanations.  Obviously, just because we don't know how something happened does not mean that a god did it.  Relegating an explanation of something to a god is easy; a person doesn't have to think much.  Finding an explanation with science often involves hard work and analysis.  We can't simply explain something mysterious by appealing to something more mysterious for which there is less evidence.
+
+“God did it” is not an explanation.  It tells no more than saying, “Santa did it.”
+
+For the fringe areas of knowledge that we don’t understand, we are using the tools of science to learn the secrets of nature.  As we have all seen, science has made excellent advances in our understanding of the universe, and will, no doubt, continue to do so.  There may also be things that are too difficult or impossible for us to understand, but that doesn't mean that some god is behind them.
+
+There are three common  “god of the gaps” types of arguments for the existence of a god.  We have: (1) First Cause, (2) Argument From Design (including Intelligent Design), and (3) origin of consciousness. 
